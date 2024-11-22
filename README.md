@@ -10,7 +10,7 @@ This project is a part of our assigment on **"Big Data Processing"** using shell
 - [**Takumi Oyamada**](https://github.com/takumi0706)
 - **Shunsuke Shimura**
 
-⚠️ This repository contains my part of the assignment. For other part of the assignment, please visit the other repository [here](#).
+⚠️ This repository contains my part of the assignment. For other part of the assignment, please visit the other repository [here](https://github.com/takumi0706/WeatherAnalysis).
 
 
 ## 🔔 Important Note
